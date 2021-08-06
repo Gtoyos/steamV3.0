@@ -1,5 +1,5 @@
 /* Laboratorio Programacion IV - INCO/FING/UDELAR
- * Laboratorio 4 - Class declaration
+ * Laboratorio 4 - Class implementation 
  * Autores (por nombre):
  * 	Alexis Baladon
  * 	Guillermo Toyos
